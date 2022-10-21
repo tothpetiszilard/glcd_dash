@@ -1,2 +1,2 @@
 # glcd_dash
-Very old (2015) project - GLCD dashboard for a motorcycle
+Very old (2015) project - T6963 based GLCD dashboard for a motorcycle
